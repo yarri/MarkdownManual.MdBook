@@ -5,7 +5,7 @@ Installation
 ------------
 
     cd path/to/your/project/
-    composer require 
+    composer require yarri/markdown-manual.mdbook
     ln -s ../vendor/yarri/markdown-manual.mdbook/src/public/markdown_manual ./public/
 
     ln -s ../../vendor/atk14/md-book/src/app/controllers/md_book_base.php ./app/controllers/
