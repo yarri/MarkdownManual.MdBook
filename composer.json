@@ -1,0 +1,21 @@
+{
+        "name": "yarri/markdown-manual-md-book/",
+        "type": "library",
+        "description": "Source text of Markdown Manual in MdBook format",
+        "keywords": ["Markdown","Manual"],
+        "homepage": "https://github.com/yarri/MarkdownManual.MdBook",
+        "license": ["MIT"],
+        "authors": [
+                {
+                        "name": "Jaromir Tomek",
+                        "homepage": "https://github.com/yarri"
+                }
+        ],
+        "require": {
+                "atk14/md-book": "~0.1"
+        },
+        "require-dev": {
+        },
+        "autoload": {
+        }
+}
