@@ -15,7 +15,7 @@ Markdown popisovaný v této příručce je Fortinův rozšířený Markdown dop
 
 _____
 
-Zdrojový kód této příručky je otevřený a dostupný na adrese [github.com/yarri/MarkdownManual/](https://github.com/yarri/MarkdownManual/). Pokud najdete v textu chybu či nepřesnosti nebo dostanete nápad na rozšíření dokumentace, nebojte se podělit s autorem příručky.
+Zdrojový kód této příručky je otevřený a dostupný na adrese [github.com/yarri/MarkdownManual.MdBook/](https://github.com/yarri/MarkdownManual.MdBook/). Pokud najdete v textu chybu či nepřesnosti nebo dostanete nápad na rozšíření dokumentace, nebojte se podělit s autorem příručky.
 
 [^1]: Stránky o původním Markdownu nejdete na adrese https://daringfireball.net/projects/markdown/.
 [^2]: Informace o rozšířeném Markdownu najdete na adrese https://michelf.ca/projects/php-markdown/extra/.
