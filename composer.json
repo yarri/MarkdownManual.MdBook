@@ -1,5 +1,5 @@
 {
-        "name": "yarri/markdown-manual.md-book",
+        "name": "yarri/markdown-manual.mdbook",
         "type": "library",
         "description": "Source text of Markdown Manual in MdBook format",
         "keywords": ["Markdown","Manual"],
