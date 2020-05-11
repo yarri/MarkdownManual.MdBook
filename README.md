@@ -11,7 +11,7 @@ Installation
     ln -s ../../vendor/atk14/md-book/src/app/controllers/md_book_base.php ./app/controllers/
     ln -s ../../vendor/atk14/md-book/src/app/views/md_book_base ./app/views/
 
-To display the Markdown in namespace markdown:
+To display the Markdown Manual in namespace markdown:
 
     mkdir app/controllers/markdown
     vim app/controllers/markdown/main_controller.php
