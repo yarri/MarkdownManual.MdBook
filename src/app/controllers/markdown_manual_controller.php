@@ -1,5 +1,5 @@
 <?php
-require_once(dirname(__FILE__)."/md_book_base.php");
+require_once(ATK14_DOCUMENT_ROOT."/app/controllers/md_book_base.php");
 
 class MarkdownManualController extends MdBookBaseController{
 
