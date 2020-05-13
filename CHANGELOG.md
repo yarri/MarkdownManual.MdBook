@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to MdBook will be documented in this file.
 
+## [0.2.1] - 2020-05-13
+
+- Package atk14/md-book required in version ^0.1.3
+
 ## [0.2] - 2020-05-13
 
 - Chapter "Multiple-column layout" added
