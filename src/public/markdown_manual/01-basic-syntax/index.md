@@ -310,10 +310,14 @@ ________________________________________________________________________________
 
 Pravidlo pro zápis obrázku je následující:
 
+    ![Alt text](ImageUrl)
+
+případně:
+
     ![Alt text](ImageUrl "Title text")
 
-Tedy konkrétní příklad:
+Tedy je konkrétní příklad:
 
-    ![Obrázek s kocourem](http://www.cutestpaw.com/wp-content/uploads/2012/06/Like-a-BOSS.jpg "Dnes se cítím jako šéf")
+    ![Obrázek s pejskem](https://panthera.blog/wp-content/uploads/2019/06/Sheep-Dog-1024x614.jpg "Dnes se cítím skvěle!")
 
-![Obrázek s kocourem](http://www.cutestpaw.com/wp-content/uploads/2012/06/Like-a-BOSS.jpg "Dnes se cítím jako šéf")
+![Obrázek s pejskem](https://panthera.blog/wp-content/uploads/2019/06/Sheep-Dog-1024x614.jpg "Dnes se cítím skvěle!")
