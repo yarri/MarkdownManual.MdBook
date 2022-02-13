@@ -318,6 +318,6 @@ případně:
 
 Tedy je konkrétní příklad:
 
-    ![Obrázek s pejskem](https://panthera.blog/wp-content/uploads/2019/06/Sheep-Dog-1024x614.jpg "Dnes se cítím skvěle!")
+    ![Obrázek s koťátkem](https://placekitten.com/g/400/300 "Čas pro roztomilého mazlíčka!")
 
-![Obrázek s pejskem](https://panthera.blog/wp-content/uploads/2019/06/Sheep-Dog-1024x614.jpg "Dnes se cítím skvěle!")
+![Obrázek s koťátkem](https://placekitten.com/g/400/300 "Čas pro roztomilého mazlíčka!")
