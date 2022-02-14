@@ -302,7 +302,7 @@ There is no need to keep the width of the cells in the same column. Spaces are a
 |-|-|-|-|-|
 |alpha|beta|gama|delta|epsilon|
 
-More about tables can be found in [separate chapter](/czech/tables/)
+More about tables can be found in [separate chapter](../tables/)
 
 
 ___________________________________________________________________________________________________________________________________________

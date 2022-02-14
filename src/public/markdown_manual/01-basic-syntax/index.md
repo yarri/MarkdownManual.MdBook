@@ -302,7 +302,7 @@ Není potřeba dodržovat šířku políček ve stejném sloupci. Mezery se dopl
 |-|-|-|-|-|
 |alfa|beta|gama|delta|epsilon|
 
-Více o tabulkách najdete v [samostatné kapitole.](/czech/tables/)
+Více o tabulkách najdete v [samostatné kapitole.](../tables/)
 
 
 ___________________________________________________________________________________________________________________________________________
