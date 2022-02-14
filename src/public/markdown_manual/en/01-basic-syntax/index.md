@@ -29,9 +29,9 @@ This is heading H2
 ------------------
 ```
 
-# This is the heading of H1
-## This is the heading of H2
-### This is the heading of H3
+# This is the H1 heading
+## This is heading H2
+### This is heading H3
 #### This is heading H4
 
 Alternative notation for headings H1 and H2:
@@ -56,12 +56,13 @@ Within the text of a paragraph, any line breaks are not relevant to the resultin
     And then this.
     The end of the second paragraph.
 
-This is the first paragraph. The text continues. The text is still going on. The text is still going on. And it goes on. And the end.
-                                                                                                          
+This is the first paragraph. The text continues. The text continues. The text continues. And it goes on. And the end.
+
 This is the second paragraph. This is also part of the second paragraph.
 And this is still part of the second paragraph.
 And then this.
 The end of the second paragraph.
+
 
 #### Line breaks
 
@@ -130,7 +131,7 @@ All freely typed addresses starting with _www._, _http://_, _https://_, or _e-ma
     [ATK14 framework pages](http://www.atk14.net/)  
     [Captioned link](https://duckduckgo.com/ "Search engine without snooping")  
     References: [Basic application skeleton][1]  
-    Named Reference:[Embryo][embryo] can't do much yet
+    Named Reference: [Embryo][embryo] can't do much yet
 
     Emails:  
 
@@ -148,7 +149,7 @@ http://www.atk14.net/ - automatically!
 [ATK14 framework pages](http://www.atk14.net/)  
 [Captioned link](https://duckduckgo.com/ "Search engine without snooping")  
 References: [Basic application skeleton][1]  
-Named Reference:[Embryo][embryo] can't do much yet
+Named Reference: [Embryo][embryo] can't do much yet
                                                                              
 Emails:  
                                                                              
