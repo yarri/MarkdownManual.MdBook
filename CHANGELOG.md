@@ -1,5 +1,9 @@
 # Change Log
-All notable changes to MdBook will be documented in this file.
+All notable changes to MarkdownManual.MdBook will be documented in this file.
+
+## [0.3] - 2022-02-15
+
+* Added English translation of the Markdown manual
 
 ## [0.2.2] - 2022-02-11
 
