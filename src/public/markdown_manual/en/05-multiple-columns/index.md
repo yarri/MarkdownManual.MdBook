@@ -90,3 +90,19 @@ option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
 [/col]
 
 [/row]
+
+### Using CSS classes
+
+```
+[row class="border border-primary"]
+[col class="text-success"]Success[/col]
+[col class="text-warn font-italic"]Warning & italic[/col]
+[col class="text-danger font-weight-bold"]Danger & bold[/col]
+[/row]
+```
+
+[row class="border border-primary"]
+[col class="text-success"]Success[/col]
+[col class="text-warn font-italic"]Warning & italic[/col]
+[col class="text-danger font-weight-bold"]Danger & bold[/col]
+[/row]
