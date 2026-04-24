@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to MarkdownManual.MdBook will be documented in this file.
 
+## [0.3.1] - 2026-04-24
+
+* Fixes in English text
+
 ## [0.3] - 2022-02-15
 
 * Added English translation of the Markdown manual
