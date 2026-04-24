@@ -78,7 +78,7 @@ Paragraph 1
 still content of paragraph 1
 
 Paragraph 2  
-with broken line
+with a line break
 
 
 ___________________________________________________________________________________________________________________________________________
@@ -211,7 +211,7 @@ We conveniently tag the items in the list.
 
 It's simple.
 
-#### Sortable lists
+#### Ordered lists
 
     We number the items in a sorted list.
 

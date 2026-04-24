@@ -6,7 +6,7 @@ Basic text highlighting, links and inline html markup can be used in tables.
 ```
 | First header                   | Second header               |
 |--------------------------------|-----------------------------|
-| Content                        | Další obsah                 |
+| Content                        | More content                |
 | Content of the **3rd cell**    | Content of the  _4th cell_  |
 | [Link](http://www.atk14.net/)  | <del>done</del>             |
 ```
@@ -15,7 +15,7 @@ is displayed as:
 
 | First header                   | Second header               |
 |--------------------------------|-----------------------------|
-| Content                        | Další obsah                 |
+| Content                        | More content                |
 | Content of the **3rd cell**    | Content of the  _4th cell_  |
 | [Link](http://www.atk14.net/)  | <del>done</del>             |
 
@@ -54,7 +54,7 @@ This is useful not only for price lists.
 
 is displayed as:
 
-| Act                | Price               |
+| Action             | Price               |
 |--------------------|--------------------:|
 | Combing            | 90 CZK              |
 | Sitting haircut    | 120 CZK             |
@@ -105,7 +105,7 @@ Tables with a more complex structure can be written directly in HTML. However, M
         <tr>
           <th align="right">Time</th>
           <td>13:23</td>
-          <td>HOUR</td>
+          <td>CEST</td>
         </tr>
         <tr>
           <th align="right">Situation</th>
@@ -136,7 +136,7 @@ is displayed as:
     <tr>
       <th align="right">Time</th>
       <td>13:23</td>
-      <td>HOUR</td>
+      <td>CEST</td>
     </tr>
     <tr>
       <th align="right">Situation</th>
